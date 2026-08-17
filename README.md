@@ -1,17 +1,15 @@
-# grocery_app_task10
+# Grocery App - Task 10 🛒
 
-A new Flutter project.
+A Flutter mobile application UI for Login and Sign Up screens built with clean code and reusable components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### Login Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img width="300" alt="login grocery" src="https://github.com/user-attachments/assets/6a715db7-940f-4a8c-971d-48770a4caaaf" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Sign Up Screen
+
+<img width="300" alt="sign up grocery" src="https://github.com/user-attachments/assets/7c047770-9ace-462d-b24b-ef9db715de30" />
