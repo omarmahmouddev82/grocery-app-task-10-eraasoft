@@ -9,18 +9,25 @@ class SignUpForm extends StatelessWidget {
     return Column(
       children: [
         const SizedBox(height: 40),
-        // Username
         TextFormField(
           onTapOutside: (value) => FocusScope.of(context).unfocus(),
           decoration: const InputDecoration(
             labelText: "Username",
-            labelStyle: TextStyle(color: Color(0xFF7C7C7C)),
-            floatingLabelStyle: TextStyle(color: Color(0xFF53B175)),
+            labelStyle: TextStyle(
+                color: Color(0xFF7C7C7C)
+              ),
+            floatingLabelStyle: TextStyle(
+              color: Color(0xFF53B175)
+            ),
             enabledBorder: UnderlineInputBorder(
-              borderSide: BorderSide(color: Color(0xffE2E2E2)),
+              borderSide: BorderSide(
+                color: Color(0xffE2E2E2)
+              ),
             ),
             focusedBorder: UnderlineInputBorder(
-              borderSide: BorderSide(color: Color(0xFF53B175)),
+              borderSide: BorderSide(
+                color: Color(0xFF53B175)
+              ),
             ),
           ),
         ),

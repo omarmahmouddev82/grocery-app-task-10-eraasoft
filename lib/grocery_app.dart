@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/login_screen.dart';
+import 'package:grocery_app_task10/screens/button_nav_bar_screen.dart';
 
 class GroceryApp extends StatelessWidget {
   const GroceryApp({super.key});
@@ -8,7 +8,7 @@ class GroceryApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(),
+      home: ButtonNavBarScreen(),
     );
   }
 }
